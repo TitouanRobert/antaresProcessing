@@ -1,3 +1,4 @@
+
 #Copyright © 2016 RTE Réseau de transport d’électricité
 
 #' Compute the surplus of clusters
